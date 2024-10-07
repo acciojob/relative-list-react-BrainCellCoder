@@ -3,7 +3,6 @@ import React from "react";
 const App = () => {
   return (
     <div id="main">
-      {/* Do not remove the main div */}
       <ol key="relativeList">
         <li key="relativeListItem1">Uncle Ramesh</li>
         <li key="relativeListItem2">Aunt Sita</li>
