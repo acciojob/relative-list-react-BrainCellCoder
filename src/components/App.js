@@ -3,7 +3,7 @@ import React from "react";
 const App = () => {
   return (
     <div id="main">
-      <ol key="relativeList">
+      <ol id="relativeList">
         <li id="relativeListItem1">Uncle Ramesh</li>
         <li id="relativeListItem2">Aunt Sita</li>
         <li id="relativeListItem3">Cousin Raj</li>
